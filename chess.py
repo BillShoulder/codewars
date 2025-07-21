@@ -141,6 +141,3 @@ king_moves.cache = {}
 if __name__ == "__main__":
     print(pawn_moves(Square(5, 6), player=Player.BLACK))
 
-
-    # print(pawn_moves(Square(1, 6), Player.WHITE))
-    # print(pawn_moves(Square(1, 6), Player.WHITE))
